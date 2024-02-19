@@ -5,6 +5,8 @@ permalink: /trail-magic/
 order: 1
 ---
 
+## Wanderlust
+
 In the year of 2018, I decided I needed something new. I was successful in my career at Xbox/Microsoft. My survival needs were taken care of. However, when it came to choosing a career trajectory, I was missing a critical component necessary for making the best life decisions- I didn't know who I was, what I liked, what made me soar. What I needed to do, I told myself, was explore the world.
 
 And so I did! By July of 2018, I got rid of all my things: my car, my PC, my Xbox, my couch, my bed, my apartment... And I took a plane to a place where I knew hardly anything about- Thailand.
@@ -15,7 +17,7 @@ The countries I visited during my trip were: Thailand, Singapore, Cambodia, Sout
 
 After I came back, I quit my job after that to enter into a new phase of self-exploration: thru-hiking the Pacific Crest Trail! I walked 760 miles across the cascades from the Canadian terminus all the way across the state of Washington and around half of the state of Oregon. That's about one-third of the entire trail.
 
-## Trail Magic
+## Enter, Trail Magic
 
 Even after all of that wandering, I was still on the path to a deeper understanding of the world and myself. But along that journey, I found a joyous something. That something is called *Trail Magic*.
 
