@@ -22,7 +22,7 @@ title: Charlotte Worthey
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer, Data Engineer, with 15 years of software development excellence and multiple top-selling video game title credits from Minecraft and Forza franchises.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chworthey.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chworthey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chworthey
 
 # Build settings
